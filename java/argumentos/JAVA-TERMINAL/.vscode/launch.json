@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Lounch MinhaClasse",
+            "mainClass": "MinhaClasse",
+            "projectName": "JAVA-TERMINAL_28e1758e"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Clara",
+                "Ferreira",
+                "28",
+                "1.60"
+            ]
+        },
+    ]
+}
